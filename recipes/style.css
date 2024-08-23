@@ -1,0 +1,16 @@
+* {
+    font-family: Courier, Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: green;
+}
+
+.ingredients {
+    font-weight: bold;
+}
+
+.description {
+    font-size: 20px;
+    background-color: aliceblue;
+}
